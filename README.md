@@ -9,9 +9,9 @@ This Neural model was trained on a GPU provided by kaggle. It uses pre-trained G
 This dataset(~41MB zip) can be downloaded from [here](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset).
 
 ## Dependencies
-•pip install tensorflow
-•pip install keras
-•pip install nltk
+pip install tensorflow
+pip install keras
+pip install nltk
 Acknowlegdement
 ## Acknowlegdements
 [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
